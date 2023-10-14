@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/prakharportfolio/static/css/main.bf538fe7.css",
+    "main.js": "/prakharportfolio/static/js/main.97dadc74.js",
+    "static/media/HeroImage.jpg": "/prakharportfolio/static/media/HeroImage.ad403dc932a1d99fc00e.jpg",
+    "index.html": "/prakharportfolio/index.html",
+    "main.bf538fe7.css.map": "/prakharportfolio/static/css/main.bf538fe7.css.map",
+    "main.97dadc74.js.map": "/prakharportfolio/static/js/main.97dadc74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.97dadc74.js"
+  ]
+}
